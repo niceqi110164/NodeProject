@@ -1,0 +1,24 @@
+{
+  "name": "mynodejs",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niceqi110164/nodeproject.git"
+  },
+  "author": "xiaoqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niceqi110164/nodeproject/issues"
+  },
+  "homepage": "https://github.com/niceqi110164/nodeproject#readme",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-bodyparser": "^4.2.1",
+    "koa-json": "^2.0.2"
+  }
+}
